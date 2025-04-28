@@ -26,8 +26,8 @@ AniVerse is a modern, responsive web application built with React that allows us
 ### Search Results
 ![Search Results](screenshots/search.png)
 
-### Mobile View
-![Mobile View](screenshots/mobile.png)
+### Trailer View
+![Trailer View](screenshots/trailer.png)
 
 ## Tech Stack
 
