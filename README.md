@@ -115,6 +115,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Ronak Joshi - [@ronakj27](https://instagram.com/ronakj27)
 
 Project Link: [https://github.com/ronakj27/AniVerse](https://github.com/ronakj27/AniVerse)
